@@ -1,11 +1,19 @@
 # NLP-Project
 End2End NLP-Project 
 
+# Use
+Open the Jupyter Notebook in Colab and run the script, ensuring that the GPU is activated in the current cloud instance
 
+Colab link --> 
+https://colab.google/
+
+Note - For each problem's solution, map it to the folder with the same name.
 ## Problem- 2_1
 
 
-1. Problem_01  
+1. Problem_01 
+
+    Google doc Link --> https://docs.google.com/document/d/1Mpxm-bwZFQ4WkrHRTtqye45ol0kg6qw95DUg7eBDNuQ/edit?usp=sharing
 
 2. Problem_02_01
 
