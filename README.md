@@ -13,7 +13,7 @@ Note - For each problem's solution, map it to the folder with the same name.
 
 1. Problem_01 
 
-    Google doc Link --> https://docs.google.com/document/d/1Mpxm-bwZFQ4WkrHRTtqye45ol0kg6qw95DUg7eBDNuQ/edit?usp=sharing
+    Google doc Link --> https://docs.google.com/document/d/1DNDcGkT-5QquCOEquVhW7p8WrErYiJdvAKdOWYcRaic/edit?usp=sharing
 
 2. Problem_02_01
 
